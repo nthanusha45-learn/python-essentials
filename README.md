@@ -1,5 +1,6 @@
 # python-essentials
 python basics
+<br>
 What is Programming?
 <br>
 Programming is the process of giving instructions to a computer to perform a specific task. Just like you give directions to a person to reach a destination, you give instructions to a computer through code to get a desired result. A computer on its own is just a machine — it does nothing without being told what to do. Programming is exactly that — telling the computer what to do, how to do it, and in what order.
@@ -22,7 +23,8 @@ The fourth element is **semantics**, which is a set of rules that determine whet
 
  a language is not just about words — it is a complete system of symbols, vocabulary, rules, and meaning working together.
 
-Machine Language vs High-Level Language
+Machine Language vs High-Level Language 
+<br>
 Machine language is the most basic language a computer directly understands, made up of only 0s and 1s. It is the computer's mother tongue but extremely difficult for humans to read or write.
 This is why high-level programming languages like Python, Java, and C++ were created. They act as a bridge between humans and computers, using simple words and symbols that are easy for humans to understand. However, since computers cannot directly understand high-level language, it must first be converted into machine language using a compiler or interpreter.
 
