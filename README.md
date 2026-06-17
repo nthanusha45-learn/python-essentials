@@ -1,6 +1,7 @@
 # python-essentials
 python basics
 What is Programming?
+<br>
 Programming is the process of giving instructions to a computer to perform a specific task. Just like you give directions to a person to reach a destination, you give instructions to a computer through code to get a desired result. A computer on its own is just a machine — it does nothing without being told what to do. Programming is exactly that — telling the computer what to do, how to do it, and in what order.
 
 Natural Language vs Programming Language
