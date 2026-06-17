@@ -29,6 +29,7 @@ Machine language is the most basic language a computer directly understands, mad
 This is why high-level programming languages like Python, Java, and C++ were created. They act as a bridge between humans and computers, using simple words and symbols that are easy for humans to understand. However, since computers cannot directly understand high-level language, it must first be converted into machine language using a compiler or interpreter.
 
 Compilation vs Interpretation
+
 There are two ways to convert high-level language into machine language — compilation and interpretation.
 In compilation, the entire source code is translated into machine language all at once by a program called a compiler. The compiled code is saved as a separate file and can be run directly by the computer anytime without needing the original source code. It is faster in execution but if there is even one error, the whole program fails to compile.
 In interpretation, the source code is translated and executed line by line by a program called an interpreter. It does not save any separate file — it reads and runs the code directly. It is slower than compilation but easier to debug since errors are caught line by line.
