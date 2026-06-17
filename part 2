@@ -14,4 +14,9 @@ many of them aren't IT specialists) and enthusiasts, but it must be said that th
 Python is everywhere in our daily lives, even if we don't realize it. It is used extensively to build complex internet services like **search engines, cloud storage, and social media platforms**. Whenever you use any of these services, Python is working behind the scenes.
 
 
-Python is also widely used in **developing tools, everyday applications, and scientific research**. Many scientists have switched to Python replacing expensive proprietary tools. IT testers use Python to automate and carry out repeatable test procedures. In short, Python is used in almost every field of technology making it one of the most popular and powerful programming languages in the world.
+Python is also widely used in **developing tools, everyday applications, and scientific research**. 
+Many scientists have switched to Python replacing expensive proprietary tools. IT testers use Python to automate and carry out repeatable test procedures. 
+In short, Python is used in almost every field of technology making it one of the most popular and powerful programming languages in the world.
+
+print("Hello, World!") is a simple code 
+
